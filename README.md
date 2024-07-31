@@ -1,5 +1,12 @@
 # Computational_Finance_for_Bonds_Issues
 
+
+This is an Academic project Postgraduate in Data Science made in collaboration with my colleagues below:
+
+- https://github.com/Przon | [Fernando Reis]
+- https://github.com/lfbr0 | [Luis Ribeiro]
+- https://github.com/renato747 | [Renato Morais]
+
 ## Overview
 
 This is an academic project presented in the Data Science Postgraduate Program, which consists of financial data analysis, including constructing yield curves, analyzing historical stock data, and manipulating DataFrames.
